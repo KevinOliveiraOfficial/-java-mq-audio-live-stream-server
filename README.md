@@ -6,6 +6,7 @@ Certifique-se de que os seguintes itens estejam instalados e configurados no seu
 
 1. **RabbitMQ**
     - Baixe e instale o RabbitMQ a partir do [site oficial](https://www.rabbitmq.com/docs/download).
+    - A fins de teste, não configure senhas no RabbitMQ e deixe a porta padrão.
 
 2. **Java 21**
     - Baixe e instale o JDK 21 a partir do [site oficial da Oracle](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) ou distribuições alternativas como OpenJDK.

@@ -44,6 +44,7 @@ public class AudioStreamServer
 
         ConnectionFactory factory = new ConnectionFactory();
         factory.setHost("localhost");
+        factory.setPort(5672);
         Connection connection = factory.newConnection();
 
         // Create threads for each radio channel
