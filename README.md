@@ -37,3 +37,4 @@ Certifique-se de que os seguintes itens estejam instalados e configurados no seu
     ```bash
     java -jar target/<NOME_DO_ARQUIVO>.jar
     ```
+    
